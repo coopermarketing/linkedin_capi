@@ -1,0 +1,5 @@
+homepage: "https://coopermarketing.co.uk/"
+documentation: "https://learn.microsoft.com/en-us/linkedin/marketing/conversions/conversions-api-gtm-guide"
+versions:
+  - sha: ca4b0670e0b73e8cbbc290b17f4d7a1f24289453
+    changeNotes: Initial release. 
